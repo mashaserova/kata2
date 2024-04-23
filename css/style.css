@@ -33,13 +33,12 @@
     opacity: 0.6;
     transition: 0.2s;
 }
-.main-menu__logo-anchor {
+.main-menu__logo-img {
     width: 99px;
     height: 51px;
-    background: url("../images/cps-logo.svg") no-repeat;
     margin-right: 77px;
 }
-.main-menu__logo-anchor:hover {
+.main-menu__logo-img:hover {
     opacity: 0.6;
     transition: 0.2s;
 }
@@ -128,12 +127,12 @@
     height: 40px;
     margin-bottom: 40px;
 }
-.contacts-list-email {
+.contacts-list__email {
     display: inline-block;
     margin-right: 90px;
     margin-bottom: 12px;
 }
-.contacts-list-number {
+.contacts-list__number {
     display: inline-block;
     line-height: 32px;
     font-weight: 700;
